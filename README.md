@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @michianeez
 - 👀 I’m interested in psychology, data visualisation, R Studio and python.
-- 🌱 I’m currently a 1st year in MSci Psychology at UCL
+- 🌱 Currently a 1st year undergraduate doing MSci Psychology at UCL
 
 <!---
 michianeez/michianeez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
